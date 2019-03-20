@@ -1,0 +1,2 @@
+npm i webpack
+npm i babel-loader @babel/core @babel/preset-env --save-dev
