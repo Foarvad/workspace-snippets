@@ -1,0 +1,5 @@
+  // Adding scripts to npm (include this section in package.json)
+  "scripts": {
+    "build": "webpack -p",
+    "watch": "webpack --watch"
+  }
